@@ -1,9 +1,10 @@
 import React from 'react';
-
+import Test from './components/Test';
 function App() {
   return (
     <div>
       <h1>CRA 없이 리액트 앱 만들기</h1>
+      <Test />
     </div>
   );
 }
